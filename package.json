@@ -3,7 +3,7 @@
     "dev": "next",
     "build": "next build",
     "start": "next start",
-    "test": "jest"
+    "test": "jest --watch"
   },
   "dependencies": {
     "next": "^11.0.1",
